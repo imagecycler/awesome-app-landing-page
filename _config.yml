@@ -8,16 +8,16 @@
 # General App Info
 #
 app:
-  name: Awesome App # REQUIRED - Enter your app name
-  ios_id: 912209541 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
+  name: Image Cycler # REQUIRED - Enter your app name
+  ios_id: 1433802408 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
   android_id: # Optional - Enter Android app id like: com.example.app
 
-  icon: # Leave blank to auto-magically populate
+  icon: images/icon.png # Leave blank to auto-magically populate
   # To update use path relative to project root with no leading slash:
   # e.g. images/app-icon-512.png
   # 512px or greater, square
 
-  #favicon: # uncomment if uploading own favicon
+  favicon: images/icon.png # uncomment if uploading own favicon
   # To update use path relative to project root with no leading slash:
   # e.g. images/app-favicon.png - can be .ico or .png
   # 16px or greater, square
@@ -42,9 +42,8 @@ app:
 #
 # Marketing
 #
-marketing_header: Does Awesome Stuff # Optional
-marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
+marketing_header: Image Cycler # Optional
+marketing_desc: Choose as many as 100 images to rotate in a slide show to entertain you and your friends - you can have it go slow to enjoy the show, or extra quick!  Never tracked, your data is always yours alone.
 #
 # Social Links
 #
